@@ -1,1 +1,5 @@
-Matlab scripts for tuning analysis and Monte Carlo modelling
+This repository is created for data analysis in the following paper:
+"The organization of the gravity-sensing system in zebrafish"
+
+The analysis was carried out in Matlab. Two sets of scripts, for tuning analysis and Monte Carlo modeling are included.
+
